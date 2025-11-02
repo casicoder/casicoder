@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @casicoder
-- 👀 I’m interested in .net, php and Mysql
+- 👀 I’m interested in .net & Mysql
 - 🌱 I’m currently learning VB.NET and develop desktops apps for small bussiness
 
 <!---
